@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/georgeehrman/static/css/main.d1b05096.chunk.css",
+    "main.js": "/georgeehrman/static/js/main.33f6e1c4.chunk.js",
+    "main.js.map": "/georgeehrman/static/js/main.33f6e1c4.chunk.js.map",
+    "runtime-main.js": "/georgeehrman/static/js/runtime-main.1135ee21.js",
+    "runtime-main.js.map": "/georgeehrman/static/js/runtime-main.1135ee21.js.map",
+    "static/js/2.fcbb71a1.chunk.js": "/georgeehrman/static/js/2.fcbb71a1.chunk.js",
+    "static/js/2.fcbb71a1.chunk.js.map": "/georgeehrman/static/js/2.fcbb71a1.chunk.js.map",
+    "index.html": "/georgeehrman/index.html",
+    "precache-manifest.a06a0527ece30024103c91ec66ca6803.js": "/georgeehrman/precache-manifest.a06a0527ece30024103c91ec66ca6803.js",
+    "service-worker.js": "/georgeehrman/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/georgeehrman/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fcbb71a1.chunk.js.LICENSE": "/georgeehrman/static/js/2.fcbb71a1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/georgeehrman/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1135ee21.js",
+    "static/js/2.fcbb71a1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.33f6e1c4.chunk.js"
+  ]
+}
